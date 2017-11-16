@@ -1,0 +1,23 @@
+Jr. Web Developer
+-Proficiency in LAMP architecture
+-Must be proficient with MySQL databases
+-Experience with Laravel or similar PHP frameworks
+-Experience with Git,Linux,Grunt and Apache
+
+
+
+
+LAMP is an open source Web development platform that uses Linux as the operating system, Apache as the Web server, MySQL as the relational database management system and PHP as the object-oriented scripting language. (Sometimes Perl or Python is used instead of PHP.) ... Stacks can be built on different operating systems.
+
+MySQL is a free, open-source database management system (DBMS for short). A DBMS is a system that manages databases and connects them to software. For example, a MySQL database can be used to run a website, to run the database of an ERP or any other software.
+
+Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern
+
+Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.
+
+Linux is a name which broadly denotes a family of free and open-source software operating system distributions built around the Linux kernel.
+
+Grunt is a JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting. It uses a command-line interface to run custom tasks defined in a file.
+
+Apache HTTP Server, colloquially called Apache, is free and open-source cross-platform web server software, released under the terms of Apache License 2.0.
+
